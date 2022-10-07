@@ -21,7 +21,7 @@
     cursor: pointer;
     position: absolute;
     top: 207px;
-    left: 710px;
+    left: 671px;
     background-color: white;
     font-size: 25px;
     border-radius: 11px;
@@ -38,7 +38,7 @@
     cursor: pointer;
     position: absolute;
     top: 207px;
-    left: 69%;
+    left: 66%;
     background-color: white;
     font-size: 25px;
     border-radius: 11px;
@@ -46,7 +46,7 @@
 #text2{
     position: absolute;
     top: 202px;
-    left: 58%;
+    left: 55%;
     color: white;
     font-size: 20px;
     transition-property: all;
@@ -58,7 +58,7 @@
     cursor: pointer;
     position: absolute;
     top: 207px;
-    right: 6%;
+    right: 9%;
     background-color: white;
     font-size: 25px;
     border-radius: 11px;
@@ -66,7 +66,7 @@
 #text3{
     position: absolute;
     top: 202px;
-    right: 12%;
+    right: 18%;
     color: white;
     font-size: 20px;
     transition-property: all;

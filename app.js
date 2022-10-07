@@ -13,7 +13,7 @@ image1.addEventListener('mouseover', ()=>{
         icon3.style.display = 'none'
 
     let text2 = document.querySelector('#text2');
-    text2.style.left = '58%'
+    text2.style.left = '55%'
 
     image1.style.width = '50%'
     image2.style.width = '350px'
@@ -34,7 +34,7 @@ image2.addEventListener('mouseover', ()=>{
     let text2 = document.querySelector('#text2')
     text2.style.left = '32%'
     let text3 = document.querySelector('#text3')
-    text3.style.right = '12%'
+    text3.style.right = '18%'
     
     image2.style.width = '50%'
     image1.style.width = '350px'
