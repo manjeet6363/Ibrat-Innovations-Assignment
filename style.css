@@ -1,0 +1,93 @@
+
+.banner img {
+    margin-top: 25px;
+    transition: width 0.5s ;
+}
+#image1{
+    width: 50%;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+#image2, #image3{
+    width: 350px;
+    object-fit: cover;
+}
+#image3{
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+#icon1{
+    display: block;
+    cursor: pointer;
+    position: absolute;
+    top: 207px;
+    left: 710px;
+    background-color: white;
+    font-size: 25px;
+    border-radius: 11px;
+}
+#text1{
+    position: absolute;
+    top: 202px;
+    left: 130px;
+    color: white;
+    font-size: 20px;
+}
+#icon2{
+    display: none;
+    cursor: pointer;
+    position: absolute;
+    top: 207px;
+    left: 69%;
+    background-color: white;
+    font-size: 25px;
+    border-radius: 11px;
+}
+#text2{
+    position: absolute;
+    top: 202px;
+    left: 58%;
+    color: white;
+    font-size: 20px;
+    transition-property: all;
+    transition-duration: 0.5s;
+}
+
+#icon3{
+    display: none;
+    cursor: pointer;
+    position: absolute;
+    top: 207px;
+    right: 6%;
+    background-color: white;
+    font-size: 25px;
+    border-radius: 11px;
+}
+#text3{
+    position: absolute;
+    top: 202px;
+    right: 12%;
+    color: white;
+    font-size: 20px;
+    transition-property: all;
+    transition-duration: 0.5s;
+}
+.navbar-image{
+    width: 20px;
+    transition: 2s;
+}
+.navbar-image:hover{
+    transform: rotate(360deg);
+}
+.brand-image{
+    width: 60px;
+    border-radius: 50px;
+}
+
+li {
+    list-style-type: none;
+    text-align: center;
+    margin: 5px 40px;
+    font-size: small;
+    cursor: pointer;
+}
